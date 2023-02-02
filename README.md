@@ -6,10 +6,10 @@
 - I am currently studying computer engineering at Uninter College
 - Currently working as a Java developer @ Ericsson - SOFT 
 
-<div>
+<div align="center" style="display: inline_block"><br>
   <a href="https://github.com/CarlosHenriqueMagalhaes">
-    <img height = "180cm" src="https://github-readme-stats.vercel.app/api?username=carloshenriquemagalhaes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height = "180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carloshenriquemagalhaes&layout=compact&langs_count=16&theme=dark"/>
+    <img height = "150cm" src="https://github-readme-stats.vercel.app/api?username=carloshenriquemagalhaes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height = "150cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carloshenriquemagalhaes&layout=compact&langs_count=16&theme=dark"/>
     </div>
         
 <div align="center" style="display: inline_block"><br>
